@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrey Derets</h1>
 <h3 align="center">React developer</h3>
 
-I`m a student at Dnipro University of Technology, Ukraine. My major is Computer Science.
-<br/>
+<p>I`m a student at Dnipro University of Technology, Ukraine. My major is Computer Science.</p>
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-derets/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derets&label=Profile%20views&color=0e75b6&style=flat" alt="derets" /> </p>
