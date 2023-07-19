@@ -5,10 +5,13 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-derets/).
 
-
 - 🌱 I’m currently learning **Next.js, Typescript**
 
-- 📫 How to reach me **andrey.derets2017@gmail.com**
+- 📫 How to reach me: **andrey.derets2017@gmail.com**
+
+👨‍💻 Check out these web projects I made myself: 
+- [My Box - 3D constructor gift boxes](https://github.com/Derets/my-box)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
