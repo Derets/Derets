@@ -10,7 +10,7 @@
 - 📫 How to reach me: **andrey.derets2017@gmail.com**
 
 👨‍💻 Check out these web projects I made myself: 
-- [MY BOX - 3D CONSTRUCTOR GIFT BOXES (MERN stack + JWT-Auth + Three.js)](https://github.com/Derets/my-box)
+- [**MY BOX - 3D CONSTRUCTOR GIFT BOXES** (MERN stack + JWT-Auth + Three.js)](https://github.com/Derets/my-box)
   
 
 <h3 align="left">Connect with me:</h3>
