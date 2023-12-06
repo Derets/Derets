@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript**
 
-- 📫 How to reach me: **andrey.derets2017@gmail.com**
+- 📫 How to reach me: **andrii.derets@gmail.com**
 
 👨‍💻 Check out these web projects I made myself: 
 - [**MY BOX - 3D CONSTRUCTOR GIFT BOXES** (MERN stack + JWT-Auth + Three.js)](https://github.com/Derets/my-box)
