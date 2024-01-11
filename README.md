@@ -5,7 +5,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-derets/).
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning **Kubernetes, AWS**
 
 - 📫 How to reach me: **andrii.derets@gmail.com**
 
