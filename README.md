@@ -11,6 +11,7 @@
 
 👨‍💻 Check out these projects I made myself: 
 - [**MY BOX - 3D CONSTRUCTOR GIFT BOXES** (MERN stack + JWT-Auth + Three.js)](https://github.com/Derets/my-box)
+- [**MyOwnBike - My first one-page website** (pure HTML/CSS/JS)](https://github.com/Derets/MyOwnBike)
   
 
 <h3 align="left">Connect with me:</h3>
