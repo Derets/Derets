@@ -5,12 +5,13 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-derets/).
 
-- 🌱 I’m currently learning **Kubernetes, AWS, React Native**
+- 🌱 I’m currently learning **Kubernetes, AWS, GCP, React Native**
 
 - 📫 How to reach me: **andrii.derets@gmail.com**
 
 👨‍💻 Check out these projects I made myself: 
 - [**MY BOX - 3D CONSTRUCTOR GIFT BOXES** (MERN stack + JWT-Auth + Three.js)](https://github.com/Derets/my-box)
+  
 - [**MyOwnBike - My first one-page website** (pure HTML/CSS/JS)](https://github.com/Derets/MyOwnBike)
   
 
